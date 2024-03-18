@@ -1,5 +1,5 @@
 python==3.10.4
-black==22.6.0
+black==24.3.0
 coverage==6.3.2
 flake8==4.0.1
 hypothesis==6.29.3
